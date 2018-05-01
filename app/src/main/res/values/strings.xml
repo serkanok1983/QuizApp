@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="header">Turkish Football Quiz</string>
+    <string name="hint">Please enter your name</string>
+    <string name="q1">Question 1</string>
+    <string name="q1_text"> is the foundation year of the first Gymnastic Club of Turkey. (Bereket Jimnastik Kulübü - now Beşiktaş JK)</string>
+    <string name="q2">Question 2</string>
+    <string name="q2_text">Which one is the foundation year of the first Football Club of Turkey? (Galatasaray SK)</string>
+    <string name="q3">Question 3</string>
+    <string name="q3_text">Please mark the clubs of Istanbul city.</string>
+    <string name="q4">Question 4</string>
+    <string name="q4_text">How many stars are given to a team which reaches 20 (TWENTY) Championships in Turkish League?</string>
+    <string name="q4_c">Who knows?</string>
+    <string name="q5">Question 5</string>
+    <string name="q5_text">Please write the Club\'s name which has the words \"and to beat non-Turkish teams\" in their motto: (G uppercase please)</string>
+    <string name="submit">SUBMIT</string>
+    <string name="reset">RESET</string>
+    <string name="score">Your score is: </string>
+    <string name="full_score">Excellent! All of your answers are true.</string>
+</resources>

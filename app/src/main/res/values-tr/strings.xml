@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="header">Türk Futbolu Sınavı</string>
+    <string name="hint">İsminizi giriniz</string>
+    <string name="q1">Soru 1</string>
+    <string name="q1_text"> yılında Türkiye\'nin ilk Jimnastik Kulübü (Bereket Jimnastik Kulübü - şimdiki Beşiktaş JK) kurulmuştur.</string>
+    <string name="q2">Soru 2</string>
+    <string name="q2_text">Türkiye\'nin ilk Futbol Kulübü\'nün (Galatasaray SK) kuruluş yılı aşağıdakilerden hangisidir?</string>
+    <string name="q3">Soru 3</string>
+    <string name="q3_text">İstanbul takımlarını işaretleyiniz.</string>
+    <string name="q4">Soru 4</string>
+    <string name="q4_text">Türkiye Liginde 20 (YİRMİ) şampiyonluğa ulaşan takıma kaç yıldız verilir?</string>
+    <string name="q4_c">Bilmem?</string>
+    <string name="q5">Soru 5</string>
+    <string name="q5_text">Felsefesinde \"Türk olmayan takımları yenmek\" ifadesi bulunan Kulübün ismini yazınız: (G\'yi büyük yazınız)</string>
+    <string name="submit">SONUCU GÖSTER</string>
+    <string name="reset">BAŞTAN</string>
+    <string name="score">Skorunuz: </string>
+    <string name="full_score">Mükemmel! Tüm soruları doğru yanıtladınız.</string>
+</resources>
